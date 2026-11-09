@@ -1,0 +1,37 @@
+# Airline Sentiment Analysis
+
+## Project Overview
+This project analyzes customer sentiment toward US airlines using tweets. The goal is to understand customer opinions and identify positive, neutral, and negative feedback.
+
+## Dataset Source
+The dataset was obtained from Kaggle:
+
+https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
+
+## Tools Used
+- Microsoft Excel — data cleaning and transformation
+- Microsoft Power BI — interactive dashboard and data visualization
+
+## Data Cleaning and Transformation
+The dataset was processed in Excel. The main steps included:
+- Removing duplicate records
+- Reviewing and handling missing values
+- Standardizing data formats
+- Creating a tweet date field
+- Cleaning location information
+- Preparing a sentiment summary
+
+## Dashboard Features
+The Power BI dashboard includes:
+- Total tweet count
+- Negative tweet percentage
+- Sentiment distribution
+- Tweet count by airline
+- An airline slicer for interactive filtering
+
+## Project Files
+- `AirLine Sentiment Project.xlsx` — Excel workbook containing the dataset and cleaning records
+- `Airline_Sentiment_Dashboard.pdf` — exported Power BI dashboard
+
+## Conclusion
+This project demonstrates the use of Excel for data preprocessing and Power BI for data visualization to explore customer sentiment toward US airlines.
